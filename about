@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About – Lower Richland Promise</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div class="nav-container">
+    <div class="logo-text">Lower Richland Promise</div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="programs.html">Programs</a></li>
+        <li><a href="donate.html">Donate</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="main-container">
+  <section class="section">
+    <h2>About Lower Richland Promise</h2>
+    <p>
+      Lower Richland Promise is a community-based grassroots nonprofit organization serving the Lower Richland
+      area through food access, education, and community empowerment initiatives.
+    </p>
+    <p>
+      Our vision is to build a self-sustaining, healthy community where residents are supported, connected,
+      and equipped to thrive. We work alongside local partners, schools, churches, and families to coordinate
+      programs that meet real needs and create long-term impact.
+    </p>
+  </section>
+
+  <section class="section">
+    <h2>Our Mission</h2>
+    <p>
+      To connect resources, deliver programs, and coordinate impactful events that support youth, families,
+      and seniors in Lower Richland.
+    </p>
+  </section>
+
+  <section class="section">
+    <h2>Our Story</h2>
+    <div class="card-grid">
+      <div class="card">
+        <div class="image-placeholder">Community History Image Placeholder</div>
+        <h3>Rooted in Community</h3>
+        <p>
+          Lower Richland Promise grew out of local efforts to respond to gaps in food access, youth support,
+          and community coordination. What began as informal support has grown into a more structured,
+          visible, and fundable organization.
+        </p>
+      </div>
+      <div class="card">
+        <div class="image-placeholder">Impact Image Placeholder</div>
+        <h3>Growing Our Impact</h3>
+        <p>
+          Through events, programs, and partnerships, we are building a stronger foundation for long-term
+          community health and opportunity in Lower Richland.
+        </p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <span>© 2026 Lower Richland Promise</span>
+    <span>Learn more about our mission and story.</span>
+  </div>
+</footer>
+</body>
+</html>
